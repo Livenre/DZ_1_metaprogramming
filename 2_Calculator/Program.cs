@@ -56,7 +56,8 @@ namespace ConsoleApp123222
                     z = x / y;
                     Console.WriteLine($"\n{x} / {y} = {z}");
                     break;
-            }    
+            }
         }
     }
 }
+
